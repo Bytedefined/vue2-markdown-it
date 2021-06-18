@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-pro",
+  "name": "vue2-markdown-it",
   "version": "1.0.1",
   "private": false,
   "description": "The vue lib for markdown-it",
@@ -90,12 +90,12 @@
     "not ie <= 8"
   ],
   "bugs": {
-    "url": "https://github.com/ravenq/markdown-it-vueissues"
+    "url": "https://github.com/zlluGitHub/vue2-markdown-it/issues"
   },
-  "homepage": "https://github.com/ravenq/markdown-it-vue",
+  "homepage": "https://github.com/zlluGitHub/vue2-markdown-it",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravenq/markdown-it-vue.git"
+    "url": "git+https://github.com/zlluGitHub/vue2-markdown-it.git"
   }
 }
