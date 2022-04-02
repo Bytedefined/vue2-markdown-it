@@ -27,7 +27,6 @@
     "build:lib": "node --max_old_space_size=8192 node_modules/@vue/cli-service/bin/vue-cli-service.js build --target lib ./src/index.js",
     "build:light": "node --max_old_space_size=8192 node_modules/@vue/cli-service/bin/vue-cli-service.js build --target lib --name markdown-it-vue-light --no-clean ./src/index-light.js"
   },
-  "main": "src/index.js",
   "dependencies": {
     "echarts": "^4.9.0",
     "flowchart.js": "^1.14.1",
