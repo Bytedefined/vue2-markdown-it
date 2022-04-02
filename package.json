@@ -19,7 +19,7 @@
     "doc",
     "src"
   ],
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "vue-cli-service serve ./example/main.js",
     "build": "npm run build:lib && npm run build:light && npm run build:example",
